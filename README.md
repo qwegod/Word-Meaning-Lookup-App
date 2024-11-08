@@ -1,8 +1,8 @@
-Word Meaning Lookup App
+# Word Meaning Lookup App
 
 A simple application to find the meaning of words.
 
-Getting Started
+# Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
 Installation
@@ -24,7 +24,7 @@ To start the application, run:
 
 This will start the server, and you can access the app in your browser at http://localhost:3000.
 
-Usage
+# Usage
 
     Open the application in your browser.
     Enter a word in the search bar to find its meaning.
